@@ -1,0 +1,3 @@
+/home/admin/bellow.net/objtimes/cmake-build-debug/CMakeFiles/objtimes.dir
+/home/admin/bellow.net/objtimes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/bellow.net/objtimes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
